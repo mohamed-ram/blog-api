@@ -1,0 +1,11 @@
+
+*.cfg
+lib/
+scripts/
+__pycache__/
+migrations/
+db.sqlite3
+media/
+
+
+.idea/
